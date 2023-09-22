@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "socketPath": "postgres://xcscrpsl:A8Nm1gI9QTxNbYlyOAejucmyOF8q0eyo@lallah.db.elephantsql.com/xcscrpsl",
+            "name": "Raiem_dd",
+            "connectString": "postgres://xcscrpsl:A8Nm1gI9QTxNbYlyOAejucmyOF8q0eyo@lallah.db.elephantsql.com/xcscrpsl"
+        }
+    ]
+}
